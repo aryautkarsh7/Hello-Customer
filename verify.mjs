@@ -44,11 +44,11 @@ for (const phrase of stalePhrases) {
 
 const required = [
   ['', ['₹399/month', 'one-month free trial']],
-  ['contact', ['SaralKaro', 'mailto:hellocustomer.support@saralkaro.app', 'tel:+918102309095']],
-  ['privacy-policy', ['Privacy contact', 'hellocustomer.support@saralkaro.app']],
+  ['contact', ['SaralKaro', 'mailto:support.hellocustomer@saralkaro.app', 'tel:+918102309095']],
+  ['privacy-policy', ['Privacy contact', 'support.hellocustomer@saralkaro.app']],
   ['terms', ['₹399 per month', 'one-month trial', 'WhatsApp messaging charges are separate']],
   ['refund-policy', ['five calendar days', 'no campaign has been run', 'statutory rights remain unaffected']],
-  ['data-deletion', ['Data Deletion Request', 'hellocustomer.support@saralkaro.app']],
+  ['data-deletion', ['Data Deletion Request', 'support.hellocustomer@saralkaro.app']],
   ['grievance', ['F311, Tulsiani Easy In Homes', 'responsible grievance contact']],
   ['pricing', ['₹399/month', 'ONE MONTH FREE TRIAL']],
   ['faq', ['₹399 per month', 'one-month free trial']],
