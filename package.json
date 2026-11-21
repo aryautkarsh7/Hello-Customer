@@ -1,1 +1,1 @@
-{"name":"hello-customer","private":true,"version":"1.0.0","description":"Hello Customer prelaunch website","scripts":{"build":"node build.mjs","dev":"python3 -m http.server 4173 --directory dist","check":"node --check build.mjs && node --check dist/app.js"}}
+{"name":"hello-customer","private":true,"version":"1.0.0","description":"Hello Customer prelaunch website","scripts":{"build":"node build.mjs","dev":"python3 -m http.server 4173 --directory dist","check":"node --check build.mjs && node --check dist/app.js","verify":"node verify.mjs"}}
