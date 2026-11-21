@@ -21,18 +21,12 @@ Home, Features, How It Works, Pricing, About, Contact, FAQ, Privacy, Terms, Refu
 
 Interactive business tabs support arrow keys, Home and End. The sample message editor has 12 fixed samples and copy controls. The modal supports Escape and returns focus. The contact form validates entries, prepares a message locally and lets visitors copy it for sharing with SaralKaro. Nothing is submitted or stored by the form. No payment, account creation, real AI generation or WhatsApp delivery is implemented by this marketing site.
 
-## Launch details still needed
+## Confirmed public information
 
-- Actual application screenshots and confirmation of released capabilities.
-- A verified early-access collection endpoint or contact address.
-- Final commercial pricing, billing and refund rules.
-- Verified legal operator, business address, privacy and grievance channels.
-- Finalized application policies based on actual data flows.
+The site publishes the owner-confirmed SaralKaro business identity and contact details, ₹399 monthly software subscription, one-month trial, five-day conditional refund policy, cancellation explanation and Udyam number. Hello Customer remains under development, so the site uses early-access language and clearly labels unavailable integrations and planned AI functionality.
 
-Current policy pages describe this website and identify outstanding prelaunch details without inventing them. All app capabilities and concept previews are clearly labelled.
+The contact form prepares an enquiry locally and offers the verified support email; it does not transmit or store form data. A delivery backend is still required before the form can truthfully show a submitted confirmation.
 
 ## Validation and hosting status
 
-JavaScript syntax checks pass. All generated page asset and route references resolve locally. All four supplied animation JSON files parse correctly.
-
-Local HTTP preview was blocked by the environment's socket permissions. Site source publication was blocked by DNS resolution for the source Git host. Browser layout QA and deployment are therefore unverified. The retained Site identity is in `.openai/hosting.json`; reuse it when publishing rather than registering a second Site.
+Run `npm run build` and `npm run check` before deployment. `dist/` remains generated output and is not committed in the parent monorepo.
